@@ -1,0 +1,12 @@
+[packaging_tutorial]
+name = "hello-world"
+version = "1.0.0"
+description = "My first Python package"
+requeires-python = ">=3.8"
+authors = [
+    {name ="Hilal Yildiz" , email = "hilal.yildiz@dlr.de"}
+]
+dependencies = [
+    "numpy",
+    "pandas",
+]
